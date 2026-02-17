@@ -1,4 +1,4 @@
-*italicized text*# 8-Puzzle Solver (A* Algorithm)
+# 8-Puzzle Solver (A* Algorithm)
 
 This project implements the **A* Search Algorithm** to solve the 8-puzzle problem. It compares three different heuristic functions to evaluate their efficiency in finding the optimal path from a start state to a goal state.
 
