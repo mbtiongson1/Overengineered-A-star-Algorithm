@@ -2,13 +2,6 @@
 
 This project implements the **A* Search Algorithm** to solve the 8-puzzle problem. It compares three different heuristic functions to evaluate their efficiency in finding the optimal path from a start state to a goal state.
 
-## Table of Contents
-- [The Problem](#-the-problem)
-- [Heuristics](#-heuristics)
-- [A* Pseudocode](#-a-pseudocode)
-- [Input Format](#-input-format)
-- [Results Comparison](#-results-comparison)
-
 ## The Problem
 The 8-puzzle is a sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing. The object of the puzzle is to place the tiles in order by making sliding moves that use the empty space.
 
